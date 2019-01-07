@@ -1,0 +1,19 @@
+{
+  "name": "three-min",
+  "version": "1.0.0",
+  "description": "simple hosting three.min.js module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m1-nann/three-min.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m1-nann/three-min/issues"
+  },
+  "homepage": "https://github.com/m1-nann/three-min#readme"
+}
