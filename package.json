@@ -1,5 +1,5 @@
 {
-  "name": "three-min",
+  "name": "three",
   "version": "1.0.0",
   "description": "simple hosting three.min.js module",
   "main": "index.js",
